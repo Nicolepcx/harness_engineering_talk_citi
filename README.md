@@ -41,4 +41,4 @@ cloud key, and an "attacker endpoint" that is a list in memory. The bank, its
 policy and the 31 skill rules are invented for the demo and do not describe
 any real institution or regulation. `skills/market-update-post/SKILL.md` is a
 deliberately unsafe skill written for scene 6: read it, do not install it.
-# harness_engineering_talk_citi
+
